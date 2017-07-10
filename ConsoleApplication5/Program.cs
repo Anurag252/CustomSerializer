@@ -22,7 +22,7 @@ namespace ConsoleApplication5
                 ,
                 t1 = new TestClass2()
                 {
-                    abc = "jdhjd"
+                    abc = "This is my third commit"
                 }
                 
                 
